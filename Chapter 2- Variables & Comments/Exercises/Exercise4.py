@@ -1,4 +1,6 @@
-favorite_number = 13
-message = f"My favorite number is {favorite_number}."
+## Exercise 4: Favorite Number 
 
-print (message)
+myfavorite_number = 13
+msg = f"My favorite number is {myfavorite_number}."
+
+print (msg)
