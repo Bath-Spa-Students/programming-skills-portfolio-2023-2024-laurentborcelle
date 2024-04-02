@@ -1,6 +1,8 @@
-message = "I would rather be lost in the lights."
-print (message)
+## Exercise 1: Variables
 
-message = "Emotions on ice."
-print (message)
+mymessage = "I would rather be lost in the lights."
+print (mymessage)
+
+mymessage = "Emotions on ice."
+print (mymessage)
 
