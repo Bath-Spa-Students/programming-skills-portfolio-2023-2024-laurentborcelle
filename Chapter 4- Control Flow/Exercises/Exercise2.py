@@ -1,4 +1,4 @@
-# Exercise 2: Alien Colors #2 
+## Exercise 2: Alien Colors #2 
 
 
 shotalien_color = input("Enter the color of the alien that had been shot: ")
