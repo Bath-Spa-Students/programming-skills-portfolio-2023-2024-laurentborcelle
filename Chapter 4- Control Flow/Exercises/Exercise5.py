@@ -1,4 +1,4 @@
-# Exercise 5: Favorite Fruit 
+## Exercise 5: Favorite Fruit 
 
 my_favorite_fruits = ['Avocado','Strawberry','Cherry']
 
