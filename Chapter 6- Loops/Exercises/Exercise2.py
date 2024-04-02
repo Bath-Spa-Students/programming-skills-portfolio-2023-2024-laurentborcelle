@@ -1,4 +1,4 @@
-# Exercise 2: Movie Tickets
+## Exercise 2: Movie Tickets
 
 # Prompt customer instructions
 prompt = "\nEnter your age."
