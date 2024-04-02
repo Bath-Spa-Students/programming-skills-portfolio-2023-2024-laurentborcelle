@@ -1,5 +1,11 @@
+## Exercise 5: Compute area of Circle
+
 from math import pi
-r=50
-area=pi*r*r 
-print("The area of the circle is",end=" ") 
-print(area)
+
+# Assign a variable
+radius=50
+
+# Computation of the area
+area=pi*radius*radius 
+print ("The area of the circle is",end=" ") 
+print (area)
