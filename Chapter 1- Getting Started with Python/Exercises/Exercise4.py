@@ -1,5 +1,7 @@
-f_name = "Sofia "
-m_name = "Gonzales"
-l_name = " Borcelo "
-name = f_name + m_name + l_name
-print (name)
+## Exercise 4: Strings Concatenation
+
+first_name = "Sofia "
+middle_name = "Gonzales"
+surname = " Borcelo "
+full_name = first_name + middle_name + surname
+print (full_name)
