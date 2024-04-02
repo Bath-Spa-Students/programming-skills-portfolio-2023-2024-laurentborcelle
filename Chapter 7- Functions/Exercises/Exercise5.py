@@ -7,4 +7,4 @@ def describe_city(city, country = 'italy'):
 # To call function for three different cities
 describe_city ('rome')
 describe_city ('milan')
-describe_city ('doha', 'qatar')
+describe_city ('athens', 'greece')
