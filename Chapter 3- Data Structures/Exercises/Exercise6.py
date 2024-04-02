@@ -1,4 +1,4 @@
-# Exercise 5: Change Guest List
+## Exercise 6: Shrinking Guest List
 
 
 
